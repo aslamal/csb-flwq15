@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://aslamal.github.io/csb-flwq15/static/css/main.144ef47f.chunk.css",
+    "main.js": "https://aslamal.github.io/csb-flwq15/static/js/main.6c41a3d2.chunk.js",
+    "main.js.map": "https://aslamal.github.io/csb-flwq15/static/js/main.6c41a3d2.chunk.js.map",
+    "runtime-main.js": "https://aslamal.github.io/csb-flwq15/static/js/runtime-main.71cf6ab7.js",
+    "runtime-main.js.map": "https://aslamal.github.io/csb-flwq15/static/js/runtime-main.71cf6ab7.js.map",
+    "static/js/2.4d84d9d8.chunk.js": "https://aslamal.github.io/csb-flwq15/static/js/2.4d84d9d8.chunk.js",
+    "static/js/2.4d84d9d8.chunk.js.map": "https://aslamal.github.io/csb-flwq15/static/js/2.4d84d9d8.chunk.js.map",
+    "index.html": "https://aslamal.github.io/csb-flwq15/index.html",
+    "static/css/main.144ef47f.chunk.css.map": "https://aslamal.github.io/csb-flwq15/static/css/main.144ef47f.chunk.css.map",
+    "static/js/2.4d84d9d8.chunk.js.LICENSE.txt": "https://aslamal.github.io/csb-flwq15/static/js/2.4d84d9d8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71cf6ab7.js",
+    "static/js/2.4d84d9d8.chunk.js",
+    "static/css/main.144ef47f.chunk.css",
+    "static/js/main.6c41a3d2.chunk.js"
+  ]
+}
